@@ -1,4 +1,4 @@
-# Med-Video-LLM
+# Video-LLM
 
 ## General Datasets 💾🌐
 
@@ -36,3 +36,4 @@ Other datasets:
 - [06/2024] Video-CCAM: Advancing Video-Language Understanding with Causal Cross-Attention Masks [[code]](https://github.com/QQ-MM/Video-CCAM)
 - [06/2024] ShareGPT4Video: Improving Video Understanding and Generation with Better Captions [[paper]](https://arxiv.org/abs/2406.04325v1) [[code]](https://github.com/ShareGPT4Omni/ShareGPT4Video)
 - [06/2024] LLaVA-NeXT-Video [[blog]](https://llava-vl.github.io/blog/2024-04-30-llava-next-video/) [[code]](https://github.com/LLaVA-VL/LLaVA-NeXT-Video)
+- [05/2024] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [[paper]](https://arxiv.org/pdf/2405.21075) [[code]](https://video-mme.github.io/)
