@@ -39,3 +39,6 @@ Other datasets:
 - [05/2024] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis [[paper]](https://arxiv.org/pdf/2405.21075) [[code]](https://video-mme.github.io/)
 - [06/2024] MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding [[paper]](https://arxiv.org/pdf/2406.14515) [[code]](https://github.com/open-compass/VLMEvalKit)
 - [06/2024] Towards Event-oriented Long Video Understanding [[paper]](https://arxiv.org/pdf/2406.14129) [[code]](https://github.com/RUCAIBox/Event-Bench)
+- [11/2023] Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers [[paper]](https://arxiv.org/pdf/2402.19479) [[code]](https://snap-research.github.io/Panda-70M)
+- [11/2023] VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models [[paper]](https://arxiv.org/pdf/2311.17404) [[code]](https://github.com/lscpku/VITATECS)
+- [06/2024] MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos [[paper]](https://arxiv.org/pdf/2406.08407) [[code]](https://mmworld-bench.github.io/)
