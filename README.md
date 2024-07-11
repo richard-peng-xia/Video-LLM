@@ -42,3 +42,5 @@ Other datasets:
 - [11/2023] Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers [[paper]](https://arxiv.org/pdf/2402.19479) [[code]](https://snap-research.github.io/Panda-70M)
 - [11/2023] VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models [[paper]](https://arxiv.org/pdf/2311.17404) [[code]](https://github.com/lscpku/VITATECS)
 - [06/2024] MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos [[paper]](https://arxiv.org/pdf/2406.08407) [[code]](https://mmworld-bench.github.io/)
+- [07/2024] MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions [[paper]](https://arxiv.org/pdf/2407.06358) [[code]](https://github.com/mira-space/MiraData)
+- [07/2024] Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision [[paper]](https://arxiv.org/pdf/2407.06189) [[code]](https://orrzohar.github.io/projects/video-star/)
