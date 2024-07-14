@@ -44,3 +44,5 @@ Other datasets:
 - [06/2024] MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos [[paper]](https://arxiv.org/pdf/2406.08407) [[code]](https://mmworld-bench.github.io/)
 - [07/2024] MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions [[paper]](https://arxiv.org/pdf/2407.06358) [[code]](https://github.com/mira-space/MiraData)
 - [07/2024] Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision [[paper]](https://arxiv.org/pdf/2407.06189) [[code]](https://orrzohar.github.io/projects/video-star/)
+- [05/2024] How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs [[paper]](https://arxiv.org/pdf/2405.03690) [[code]](https://github.com/mbzuai-oryx/CVRR-Evaluation-Suite/)
+- [06/2024] MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding [[paper]](https://arxiv.org/pdf/2406.04264) [[code]](https://github.com/JUNJIE99/MLVU)
